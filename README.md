@@ -1,5 +1,3 @@
-# Auto-tests-course-from-Stepic
+# Пример написания автотестов
 
-This repository contains simple autotests, written by me during the course on Stepic:
-
-https://stepik.org/course/575/syllabus
+Данный репозиторий используется для демонстрации стиля написания автотестов на Python+Selenium+Pytest, используя паттерн PageObject. 
